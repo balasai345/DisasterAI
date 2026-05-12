@@ -1,0 +1,6 @@
+{
+  "appId": "com.disasterai.app",
+  "appName": "DisasterAI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

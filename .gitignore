@@ -1,0 +1,38 @@
+node_modules/
+build/
+dist/
+coverage/
+.vite/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# SQLite / local runtime data
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Capacitor
+.capacitor/
+
+# Android (Gradle / Studio)
+android/.gradle/
+android/**/.gradle/
+android/**/captures/
+android/**/externalNativeBuild/
+android/**/cxx/
+android/**/local.properties
+android/**/.idea/
+android/**/*.iml
+*.jks
+*.keystore
+
+# iOS (Xcode / CocoaPods)
+ios/**/Pods/
+ios/**/Podfile.lock
+ios/**/DerivedData/
+ios/**/build/
+ios/**/*.xcuserstate
+ios/**/xcuserdata/

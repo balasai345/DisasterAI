@@ -1,0 +1,5 @@
+{
+  "name": "DisasterRiskAI",
+  "description": "Hybrid AI and Intelligent Agent System for Disaster Risk Analysis and Management. Features a multi-agent architecture for image classification, risk analysis, and automated alert coordination.",
+  "requestFramePermissions": []
+}
